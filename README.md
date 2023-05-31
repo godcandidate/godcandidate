@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Edward</h1>
-<h3 align="center">A passionate Software Engineer from Ghana</h3>
+<h1 align="center">Hi 👋, I'm Eddie</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godcandidate&label=Profile%20views&color=0e75b6&style=flat" alt="godcandidate" /> </p>
