@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godcandidate&label=Profile%20views&color=0e75b6&style=flat" alt="godcandidate" /> </p>
 
-- 🔭 I’m currently working on **ALX projects**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **ALX Software Engineering**
+- 🌱 I’m currently learning **Computer Engineering**
 
 - 📫 How to reach me **godcandidate101@gmail.com**
 
