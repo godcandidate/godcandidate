@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Computer Engineering**
+- 🌱 I’m a graduate **Computer Engineering**
 
 - 📫 How to reach me **edwardobdankwah@gmail.com**
 
